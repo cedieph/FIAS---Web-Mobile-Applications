@@ -1,0 +1,12 @@
+<?php $this->load->view('landing/subfiles/head'); ?>
+<?php $this->load->view('landing/subfiles/navigation'); ?>
+<?php $this->load->view('landing/subfiles/login'); ?>
+<?php $this->load->view('landing/subfiles/fogotpass'); ?>
+<?php $this->load->view('landing/subfiles/intro'); ?>
+<?php $this->load->view('landing/subfiles/about'); ?>
+<?php $this->load->view('landing/subfiles/testimonial'); ?>
+<?php $this->load->view('landing/subfiles/services'); ?>
+<?php $this->load->view('landing/subfiles/team'); ?>
+<?php $this->load->view('landing/subfiles/promotion'); ?>
+<?php $this->load->view('landing/subfiles/contact'); ?>
+<?php $this->load->view('landing/subfiles/footer'); ?>
